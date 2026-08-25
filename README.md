@@ -29,8 +29,7 @@ cd simple-dotfiles-kitty
 
 ```
 
-###Keys
-
+Keys
 Shortcut	Action
 Ctrl+Shift+C	Copy
 Ctrl+Shift+V	Paste
