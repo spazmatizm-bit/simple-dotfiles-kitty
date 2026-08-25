@@ -1,4 +1,4 @@
-# 🐱 Kitty Config — Minimal Blue
+# Kitty Config — Minimal Blue
 
 Minimal, dark blue config for Kitty terminal.
 
