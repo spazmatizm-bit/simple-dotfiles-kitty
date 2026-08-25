@@ -28,9 +28,11 @@ cd simple-dotfiles-kitty
 ./install.sh
 
 ```
-Keys
-Shortcut	Action
-Ctrl+Shift+C	Copy
-Ctrl+Shift+V	Paste
-Ctrl+Shift+=	Increase font
-Ctrl+Shift+-	Decrease font
+## Keys
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl+Shift+C` | Copy |
+| `Ctrl+Shift+V` | Paste |
+| `Ctrl+Shift+=` | Increase font size |
+| `Ctrl+Shift+-` | Decrease font size |
+| `Ctrl+Shift+Backspace` | Restore font size |
