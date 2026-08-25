@@ -27,7 +27,10 @@ git clone https://github.com/spazmatizm-bit/simple-dotfiles-kitty.git
 cd simple-dotfiles-kitty
 ./install.sh
 
-Keys
+```
+
+###Keys
+
 Shortcut	Action
 Ctrl+Shift+C	Copy
 Ctrl+Shift+V	Paste
