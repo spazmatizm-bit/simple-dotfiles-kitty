@@ -28,7 +28,6 @@ cd simple-dotfiles-kitty
 ./install.sh
 
 ```
-
 Keys
 Shortcut	Action
 Ctrl+Shift+C	Copy
