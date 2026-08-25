@@ -20,14 +20,12 @@ Minimal, dark blue config for Kitty terminal.
 
 ## Install
 ```fish
+
+sudo pacman -S kitty ttf-jetbrains-mono ttf-font-awesome ttf-nerd-fonts-symbols libnewt fish
+
 git clone https://github.com/spazmatizm-bit/simple-dotfiles-kitty.git
 cd simple-dotfiles-kitty
 ./install.sh
-
-Dependencies
-fish
-
-sudo pacman -S kitty ttf-jetbrains-mono ttf-font-awesome ttf-nerd-fonts-symbols libnewt
 
 Keys
 Shortcut	Action
